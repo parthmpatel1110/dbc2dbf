@@ -1,11 +1,11 @@
 This project is working good on 29_09_2022.
 Follow the step:
 
-1. copy canmatrix-development.zip to "C:\Users\ppatel4\Documents\python_libs". Create python_libs foulder if not exist.
+1. copy canmatrix-development.zip to "C:\Users\"UserName"\Documents\python_libs". Create python_libs foulder if not exist.
 2. Uzip canmatrix-development.zip.
-3. Open "C:\Users\ppatel4\Documents\python_libs\canmatrix-development".
+3. Open "C:\Users\"UserName"\Documents\python_libs\canmatrix-development".
 4. open cmd.
-5. run command "cd C:\Users\ppatel4\Documents\python_libs\canmatrix-development".
+5. run command "cd C:\Users\"UserName"\Documents\python_libs\canmatrix-development".
 6. run command "python setup.py install".
 7. good to go. 
 
